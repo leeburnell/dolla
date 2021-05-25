@@ -42,7 +42,7 @@ export const homeObjOne = {
     description: 'Get access to our exclusive app that allows you to send unlimited transactions whitout getting charged any fees.',
     buttonLabel: 'Start Now',
     imgStart: false,
-    img: '/images/svg-3.svg',
+    img: './images/svg-3.svg',
     alt: 'car',
     primary: false,
     darkText: true
