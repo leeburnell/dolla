@@ -57,16 +57,16 @@ const Footer = () => {
               <SocialIconLink href='/' target='_blank' arial-label='Facebook'>
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href='//www.instagram.com/leonardtcomdt/' target='_blank' arial-label='Instagram'>
+              <SocialIconLink href='//www.instagram.com/itsBeeroyBTW' target='_blank' arial-label='Instagram'>
                 <FaInstagram/>
               </SocialIconLink>
-              <SocialIconLink href='//www.youtube.com/channel/UCF6Cz50AqAJcg6JC5LDRElg/videos?view_as=subscriber' target='_blank' arial-label='Youtube'>
+              <SocialIconLink href='//www.youtube.com/' target='_blank' arial-label='Youtube'>
                 <FaYoutube />
               </SocialIconLink>
               <SocialIconLink href='/' target='_blank' arial-label='Twitter'>
                 <FaTwitter/>
               </SocialIconLink>
-              <SocialIconLink href='//www.linkedin.com/in/leonardtlauenstein/' target='_blank' arial-label='Linkedin'>
+              <SocialIconLink href='//www.linkedin.com/in/ljburnell' target='_blank' arial-label='Linkedin'>
                 <FaLinkedin />
               </SocialIconLink>
             </SocialIcons>
